@@ -18,8 +18,37 @@ In this project, Nessus Essentials was installed on a Windows 10 VM to scan othe
 
 <p align="center">
 Nessus Web Interface - Dashboard <br/>
-<img src="LINK_TO_IMAGE_nessus_dashboard.png" height="80%" width="80%" />
+<img src="![Screenshot 2025-06-26 at 3 10 43 PM](https://github.com/user-attachments/assets/912dd698-0695-4af1-abea-d7716e322b11)
+" height="80%" width="80%" />
 
+<br /><br />
+Creating a New Scan Profile <br/>
+<img src="![Screenshot 2025-06-26 at 3 11 34 PM](https://github.com/user-attachments/assets/39a3331a-b4b1-4c13-93ff-fa2be2863ce3)
+g" height="80%" width="80%" />
+
+
+<br /><br />
+Creating a New Scan Profile <br/>
+<img src="![Screenshot 2025-06-26 at 3 16 05 PM](https://github.com/user-attachments/assets/40e993d7-dd30-4951-b5f8-0b30d4b13822)
+" height="80%" width="80%" />
+<br /><br />
+Creating a New Scan Profile <br/>
+<img src="LINK_TO_IMAGE_nessus_new_scan.png" height="80%" width="80%" />
+<br /><br />
+Creating a New Scan Profile <br/>
+<img src="LINK_TO_IMAGE_nessus_new_scan.png" height="80%" width="80%" />
+<br /><br />
+Creating a New Scan Profile <br/>
+<img src="LINK_TO_IMAGE_nessus_new_scan.png" height="80%" width="80%" />
+<br /><br />
+Creating a New Scan Profile <br/>
+<img src="LINK_TO_IMAGE_nessus_new_scan.png" height="80%" width="80%" />
+<br /><br />
+Creating a New Scan Profile <br/>
+<img src="LINK_TO_IMAGE_nessus_new_scan.png" height="80%" width="80%" />
+<br /><br />
+Creating a New Scan Profile <br/>
+<img src="LINK_TO_IMAGE_nessus_new_scan.png" height="80%" width="80%" />
 <br /><br />
 Creating a New Scan Profile <br/>
 <img src="LINK_TO_IMAGE_nessus_new_scan.png" height="80%" width="80%" />
@@ -32,3 +61,7 @@ Scan Results Summary <br/>
 Detected Vulnerabilities Example (Ubuntu) <br/>
 <img src="LINK_TO_IMAGE_nessus_ubuntu_vuln.png" height="80%" width="80%" />
 </p>
+
+
+
+
